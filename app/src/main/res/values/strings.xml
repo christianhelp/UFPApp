@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">enk037_lab4</string>
+    <item type="id" name = "person"/>
+    <string name="ufp_description">UFP IMAGE</string>
+    <string name="USS_EnterpriseA"> NCC-1701-A</string>
+    <string name="USS_EnterpriseD"> NCC-1701-D</string>
+    <string name="USS_Voyager">NCC-74656</string>
+    <string name="USS_EnterpriseACalled">USS_EnterpriseA\nNCC-1701-A</string>
+    <string name="USS_EnterpriseDCalled">USS_EnterpriseD\nNCC-1701-D</string>
+    <string name="USS_VoyagerCalled">USS_Voyager\nNCC-74656</string>
+    <string name="PHOTODESCRIPTION">PHOTODESCRIPTION</string>
+    <string name="Personnel1">%s\n%s %s</string>
+    <string name="Personnel2">%s\n%s %s</string>
+    <string name="Personnel3">%s\n%s %s</string>
+    <string name="Personnel4">%s\n%s %s</string>
+    <string name="Personnel5">%s\n%s %s</string>
+    <string name="Personnel6">%s\n%s %s</string>
+    <string name="Personnel7">%s\n%s %s</string>
+    <string name="Personnel8">%s\n%s %s</string>
+</resources>
